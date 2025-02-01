@@ -1,0 +1,10 @@
+name: BPI
+title: BPI - AKS
+version: V1.0
+start_page: lists/unordered-list.adoc
+# asciidoc:
+#   attributes:
+#     source-language: asciidoc@
+#     table-caption: false
+nav:
+  - modules/ROOT/nav.adoc

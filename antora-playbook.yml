@@ -1,0 +1,13 @@
+site:
+  title: Blue Planet Docs
+  url: https://my-antora-demo-site.org
+  start_page: BPI::index.adoc
+content:
+  sources:
+    - url: .
+      branches: .
+
+ui:
+  bundle:
+    url: ui-bundle
+    snapshot: true
