@@ -1,6 +1,6 @@
 name: BPI
-title: BPI
-version: V1
+title: Blue Planet Inventory
+version: V1.0
 start_page: inline-text-formatting.adoc
 asciidoc:
   attributes:
